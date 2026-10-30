@@ -1,8 +1,8 @@
 ![YTMOlga](banner.jpg)
 
 <p align="center">
-  <b>Building AI agents · AI video · SMM automation</b><br>
-  Делаю AI-агентов, нейровидео и автоматизацию SMM
+  <b>AI creator · SMM & promotion · AI agents</b><br>
+  Создаю нейровидео и изображения, развиваю SMM-продвижение, делаю AI-агентов
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ---
 
-## What I build / Что я делаю
+## What I do / Чем занимаюсь
 
+- 🎬 **AI creator** — AI video, images, ads and series made with neural networks / нейровидео, изображения, реклама, сериалы
+- 📈 **SMM & YouTube promotion** — strategy, content plans, channel growth / стратегии, контент-планы, рост каналов
 - 🤖 **AI agents** — self-hosted tools that save hours of routine work / агенты, которые забирают рутину
-- 🎬 **AI video** — films, ads and series made with neural networks / нейровидео: фильмы, реклама, сериалы
-- 📈 **SMM & YouTube** — strategy, content plans, automation / стратегии, контент-планы, автоматизация
 
 ## Featured project / Главный проект
 
