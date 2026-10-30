@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1227,100:161b22&height=180&text=YTMOlga&fontSize=40&fontColor=e6edf3&fontAlignY=35&animation=fadeIn)
+![YTMOlga](banner.jpg)
 
 <p align="center">
   <b>Building AI agents · AI video · SMM automation</b><br>
