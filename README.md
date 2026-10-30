@@ -1,16 +1,35 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1227,100:161b22&height=180&text=YTMOlga&fontSize=40&fontColor=e6edf3&fontAlignY=35&animation=fadeIn)
 
-<!--
-**ozerova152-lab/ozerova152-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building AI agents · AI video · SMM automation</b><br>
+  Делаю AI-агентов, нейровидео и автоматизацию SMM
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozerova152-lab&style=flat-square&color=161b22&label=views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I build / Что я делаю
+
+- 🤖 **AI agents** — self-hosted tools that save hours of routine work / агенты, которые забирают рутину
+- 🎬 **AI video** — films, ads and series made with neural networks / нейровидео: фильмы, реклама, сериалы
+- 📈 **SMM & YouTube** — strategy, content plans, automation / стратегии, контент-планы, автоматизация
+
+## Featured project / Главный проект
+
+**[Open News Monitor](https://github.com/ozerova152-lab/open-news-monitor)** — self-hosted news monitoring agent: RSS and websites in, deduplicated source-linked digests out (Telegram, email, Google Sheets).
+Агент мониторинга новостей: сам следит за источниками, убирает повторы и присылает только новое.
+
+## Links / Ссылки
+
+<p>
+<a href="https://www.youtube.com/@YTMOlga"><img src="https://img.shields.io/badge/YouTube-YTMOlga-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://t.me/youtubemanagolga"><img src="https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/youtubemanagolga/"><img src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/YTMOlga"><img src="https://img.shields.io/badge/X-YTMOlga-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://vk.ru/ytmolga"><img src="https://img.shields.io/badge/VK-ytmolga-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer)
