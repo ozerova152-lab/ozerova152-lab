@@ -28,7 +28,6 @@
 <a href="https://www.youtube.com/@YTMOlga"><img src="https://img.shields.io/badge/YouTube-YTMOlga-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://t.me/youtubemanagolga"><img src="https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/youtubemanagolga/"><img src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/YTMOlga"><img src="https://img.shields.io/badge/X-YTMOlga-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://vk.ru/ytmolga"><img src="https://img.shields.io/badge/VK-ytmolga-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
 
