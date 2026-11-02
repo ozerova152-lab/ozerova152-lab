@@ -18,6 +18,7 @@
 | Проект | Что делает |
 |---|---|
 | [**Open News Monitor**](https://github.com/ozerova152-lab/open-news-monitor) | Агент для мониторинга новостей по RSS и сайтам. Без дублей, со ссылками на источники. Уведомления в Telegram, на почту и в Google Sheets. Работает на своём сервере. |
+| [**YouTube Producer**](https://github.com/ozerova152-lab/youtube-producer) | AI-продюсер YouTube-канала: находит залётные ролики ниши, разбирает причины, предлагает стратегию и готовит брифы. Работает в Claude Code, Codex и других агентах. Решения принимаешь ты. |
 
 ---
 
