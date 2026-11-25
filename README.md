@@ -1,4 +1,4 @@
-![YTMOlga](banner.jpg)
+![YTMOlga](banner-full.png)
 
 <p align="center">
   <b>AI-видео и изображения · SMM и YouTube · AI-агенты</b><br>
